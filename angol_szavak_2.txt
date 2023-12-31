@@ -1,0 +1,1150 @@
+block of flats
+háztömb
+
+
+bungalow
+egyszintes ház
+
+
+cottage
+vidéki ház, vendégház
+
+
+detached house
+családi ház
+
+
+farmhouse
+parasztház, tanya
+
+
+flat/ apartment
+lakás, apartman
+
+
+one room flat/bedsits/bedsitter
+garzonlakás
+
+
+three-room flat
+háromszobás lakás
+
+
+maisonette
+stúdiólakás, bérlakás
+
+
+multi-storey house
+emeletes ház
+
+
+semi-detached house
+ikerház
+
+
+skyscaper
+felhőkarcoló
+
+
+summer house
+nyaraló, kerti lak
+
+
+ten-storey block
+tízemeletes ház
+
+
+terraced house
+sorház
+
+
+tower block
+toronyház
+
+
+(un)furnished
+bútorozott (bútorozatlan)
+
+
+affordable
+megfizethető
+
+
+airy
+levegős
+
+
+antique furniture
+stílbútor, antik bútor
+
+
+cluttered
+zsúfolt
+
+
+convenient, comfortable
+megfelelő, kényelmes
+
+
+cosy
+lakályos
+
+
+damp
+nyirkos
+
+
+functional
+rendeltetésszerű
+
+
+impersonal
+személytelen
+
+
+in good/bad condition
+jó/rossz állapotú
+
+
+littered (with things)
+tele van zsúfolva (dolgokkal)
+
+
+luxurious
+fényűző
+
+
+messy
+rendetlen
+
+
+modern
+korszerű
+
+
+nicely-decorated
+szépen berendezett
+
+
+open-plan
+egyterű
+
+
+pavement
+járda
+
+
+peaceful
+békés, nyugodt
+
+
+picturesque
+festői szépségű
+
+
+prime location
+előkelő hely
+
+
+residental area
+lakónegyed
+
+
+run-down
+lepusztult
+
+
+soundproof
+hangszigetelt
+
+
+spacious/large
+tágas / nagy
+
+
+sparsely furnished
+gyéren bútorozott
+
+
+suburban neighbourhood
+kertvárosi környék
+
+
+sunny
+napos
+
+
+tiny
+apró, pici
+
+
+two-storey house
+kétemeletes ház
+
+
+welcoming
+üdvözlő, barátságos
+
+
+well-equipped
+jól felszerelt
+
+
+well-kept/well-maintained
+gondozott/jól karbantartott
+
+
+with a view of the lake
+tóra néző
+
+
+with windows overlooking a busy street
+az ablakok forgalmas utcára néznek
+
+
+whitin walking/driving distance of...
+gyalog/autóval elérhető távolságon belül
+
+
+attic
+padlás, padlásszoba
+
+
+balcony
+erkély
+
+
+basement
+alagsor
+
+
+bathroom
+fürdőszoba
+
+
+bedroom
+hálószoba
+
+
+ceilling
+mennyezet
+
+
+child's/children's room
+gyerekszoba
+
+
+corridor
+folyosó
+
+
+dining room
+ebédlő
+
+
+downstairs
+alsó szint (kétszintes házban)
+
+
+drive
+bejáró, kocsifeljáró
+
+
+en suite(bathroom)
+fürdőszobás
+
+
+exterior/interior
+külső/belső
+
+
+fence
+kerítés
+
+
+floor
+padló, emelet
+
+
+garage
+garázs
+
+
+garden
+kert
+
+
+ground floor
+földszint
+
+
+guest/spare room
+vendégszoba
+
+
+hall
+előszoba
+
+
+kitchen
+konyha
+
+
+lawn
+pázsit
+
+
+lift
+felvonó, lift
+
+
+loft
+galéria, loft
+
+
+porch
+tornác
+
+
+sitting/living room
+nappali
+
+
+stairs
+lépcső
+
+
+study
+dolgozószoba
+
+
+upstairs
+felső szint (kétszintes házban)
+
+
+utility room
+mosókonyha
+
+
+blind/shutter
+roló,reluxa/redőny,spaletta
+
+
+burglar alarm
+riasztó
+
+
+carpet
+szőnyeg
+
+
+central heating
+központi fűtés
+
+
+curtain
+függöny
+
+
+doorbell
+csengő
+
+
+doormat
+lábtörlő
+
+
+drinks/coctail cabinet
+bárszekrény
+
+
+fitted carpet
+padlószőnyeg
+
+
+intercom
+házi telefon
+
+
+letter box
+levélszekrény
+
+
+ornament
+dísztárgy
+
+
+plug
+konnektor
+
+
+plumbing
+szaniter szerelvények
+
+
+pot plant
+cserepes növény
+
+
+radiator
+radiátor, fűtőtest
+
+
+rug
+rongyszőnyeg / (futó)szőnyeg
+
+
+shelf
+polc
+
+
+tile
+csempe
+
+
+vacuum cleaner/ hoover
+porszívó
+
+
+wallpaper
+tapéta
+
+
+bath(tub)
+fürdőkád
+
+
+cabinet
+szekrényke, üveges szekrény
+
+
+laundry basket
+szennyeskosár
+
+
+mirror
+tükör
+
+
+shower
+zuhanyzó
+
+
+tap
+csap
+
+
+toilet
+WC
+
+
+washbasin
+mosdókagyló
+
+
+washing machine
+mosógép
+
+
+bed linen
+ágynemű
+
+
+bedside table
+éjjeliszekrény
+
+
+clothes shelf
+ruhás polc
+
+
+mattress
+matrac
+
+
+pillow
+párna
+
+
+single/double bed
+egyszemélyes / kétszemélyes ágy
+
+
+(built-in)wardrobe
+(beépített)szekrény
+
+
+cooker
+tűzhely
+
+
+(wall) cupboard
+konyhaszekrény
+
+
+dishwasher
+mosogatógép
+
+
+freezer
+mélyhűtő, fagyasztó
+
+
+fridge
+hűtőszekrény
+
+
+microwave oven
+mikrohullámú sütő
+
+
+DIY(Do It Yourself)
+barkácsolj, csináld magad
+
+
+do(the) housework
+házimunkát végez
+
+
+do maintenance work
+karbantartást végez
+
+
+dust
+leporol, törölget, portalanít
+
+
+empty/ load(the dishwasher)
+kiüríti/ betölti a mosogatógépet
+
+
+fix a leak
+megszünteti a szivárgást
+
+
+house renovation
+házfelújítás
+
+
+install(an appliance)
+felszerel(egy berendezést)
+
+
+mend( a fence / a roof)
+megjavít (kerítést / tetőt)
+
+
+move in/out
+be-/kiköltözik
+
+
+rearrange(the furniture)
+átrendez(bútort)
+
+
+renovate/ do up
+helyreállít / rendbehoz
+
+
+repair
+megjavít
+
+
+sweep/vacuum/mop the floor
+felsöpri / kiporszívózza / felmossa a padlót
+
+
+property
+ingatlan
+
+
+(a flat)to let
+kiadó(lakás)
+
+
+accommodation
+szállás
+
+
+amenities
+komfort, felszereltség
+
+
+be on a limited/tight budget
+szűkös költségvetésből gazdálkodik
+
+
+cost of utilities
+közüzemi költségek
+
+
+Croydon district
+Croydon kerület, körzet
+
+
+do the cleaning, cooking, ironing, washing-up
+kitakarít, megfőz, kivasal, elmosogat
+
+
+electricity/ telephone bill
+villany-/telefonszámla
+
+
+estate agent/agency
+ingatlanügynök/ingatlanügynökség
+
+
+evict/eviction
+kilakoltat/kilakoltatás
+
+
+fall behind with the rent/mortage instalments
+bérleti díjjal/jelzálog részlettel elmarad
+
+
+flatmate/housemate
+lakótárs/szobatárs
+
+
+for sale
+eladó
+
+
+give(a month's) notice
+egy hónapos felmondási időt ad
+
+
+homeowner
+háztulajdonos
+
+
+housing estate
+lakótelep
+
+
+I live at 1 King Street, flat 1.
+A King utca 1. szám alatt az 1-es számú lakásban lakom.
+
+
+in the centre
+a központban
+
+
+in the suburbs
+a kertvárosban
+
+
+inhabitant/resident/householder
+lakos/lakó/háztulajdonos
+
+
+landlord/landlady
+főbérlő
+
+
+live on the first/second floor
+az első / második emeleten lakik
+
+
+located in a residential area
+egy lakónegyedben található
+
+
+lower/increase the rent
+csökkenti / emeli a bérleti díjat
+
+
+neighbour
+szomszéd
+
+
+on the ground floor
+a földszinten
+
+
+on the outskirts
+a peremvárosban
+
+
+pay(high/low) rent
+magas / alacsony bérleti díjat fizet
+
+
+pay in advence
+előre fizet
+
+
+pay the bills
+kiegyenlíti a számlát
+
+
+pay up front
+előre kifizeti a teljes összeget
+
+
+per month(p.m)/ per week(p.w)
+havi/heti részeltben fizet
+
+
+place a deposit
+letétbe helyez
+
+
+put a house on the market
+piacra dob egy házat
+
+
+real estate
+ingatlan
+
+
+reduce/reduction
+csökkent/csökkentés
+
+
+removal van
+költöztető furgon
+
+
+rent a flat from sb
+lakást bérel vkitől
+
+
+rent a flat to sb
+lakást bérel vkinek
+
+
+rural
+vidéki
+
+
+share a room
+megosztja a szobát valakivel
+
+
+sign a lease
+aláír egy bérleti szerződést
+
+
+take out a mortgage
+jelzálogot vesz igénybe
+
+
+take the rubbish out
+kiviszi a szemetet
+
+
+tenant
+főbérlő, lakó
+
+
+There is a school in the neighbourhood.
+Van egy iskola a környéken.
+
+
+under construction
+építés alatt
+
+
+urban
+városi
+
+
+roof
+tető
+
+
+sink
+mosogató
+
+
+stainless steel appliances
+rozsdamentes acél készülékek
+
+
+living room
+nappali
+
+
+armchair
+fotel, karosszék
+
+
+bookcase
+könyvszekrény
+
+
+bookshelf
+könyvespolc
+
+
+chest of drawers
+komód, sublót
+
+
+coffee table
+dohányzóasztal
+
+
+cushion
+párna, díszpárna
+
+
+display cabinet
+vitrin
+
+
+DVD player
+DVD lejátszó
+
+
+fireplace
+kandalló
+
+
+flat-screen TV
+síkképernyős TV
+
+
+furniture
+bútor, bútorzat
+
+
+rocking chair
+hintaszék
+
+
+sofa/(corner) couch
+kanapé / (sarok)heverő
+
+
+desk
+íróasztal
+
+
+swivel chair
+forgószék
+
+
+watepaper basket
+papírkosár
+
+
+assemble / dismantle (a piece of furniture)
+bútort összeszerel / szétszed
+
+
+change a light bulb
+kicserél egy villanykörtét
+
+
+clean/tidy up
+kitakarít
+
+
+convert sth into sth else
+átalakít valamit valamivé
+
+
+decorate a room
+kifest egy szobát
+
+
+do (the) housework
+házimunkát végez
+
+
+empty / load (the diswasher)
+kiüríti / betölti a mosogatógépet
+
+
+mow the lawn
+lenyírja a füvet
+
+
+rearrange (the furniture)
+átrendez (bútort)
+
+
+remove a stain
+eltávolítja a foltot
+
+
+renovate / do up
+helyreállít / rendbehoz
+
+
+sweep / vacuum / mop the floor
+felsöpri / kiporszívózza / felmossa a padlót
+
+
+(a flat ) to let
+kiadó(lakás)
+
+
+accomadation
+szállás
+
+
+be on limited / tight budget
+szűkös költségvetésből gazdálkodik
+
+
+electricity / telephone bill
+villany- / telefonszámla
+
+
+estate agent / agency
+ingatlanügynök/ingatlanügynökség
+
+
+evict / eviction
+kilakoltat/kilakoltatás
+
+
+fall behind with the rent / mortgage instalments
+bérleti díjjal/jelzálog részlettel elmarad
+
+
+flatmate / housemate
+lakótárs/szobatárs
+
+
+give (a month's) notice
+egy hónapos felmondási időt ad
+
+
+inhabitant / resident / householder
+lakos/ lakó/ háztulajdonos
+
+
+live on the first / second floor
+az első / második emeleten lakik
+
+
+lower / incease the rent
+csökkenti / emeli a bérleti díjat
+
+
+pay ( high / low ) rent
+(magas / alacsony) bérleti díjat fizet
+
+
+pay in advance
+előre fizet
+
+
+per month (p.m / per week (p.w.)
+havi/heti részletben fizet
+
+
+reduce / reduction
+csökkent/csökkentés
+
+
+We had our house renovated/done up last year.
+Tavaly újíttattuk fel a házunkat.
+
+
+eliminate
+eltávolít
+
+
+notable
+nevezetes
+
+
+sustainable
+fenntartható
+
+
+refers to
+utal valamire
+
+
+situated in
+elhelyezkedik
+
+
+provide
+ellát
+
+
+apparently
+látszólag
+
+
+dwellings
+lakóhely
+
+
+protect from
+megvéd vmitől
+
+
+elements
+részek
+
+
+permanent dwellings
+állandó lakóhelyek
+
+
+inhabited
+lakott, lakos
+
+
+frequently
+gyakran, sűrűn
+
+
+depend on
+függ valamitől
+
+
+huts
+kunyhók
+
+
+insulator
+szigetelés
+
+
+tribe
+törzs
+
+
+preferable
+preferált
+
+
+tend to
+hajlamos vmire
+
+
+thatched
+nádfedeles
+
+
+resembled
+hasonlítani vmire
+
+
+beehives
+méhkas
+
+
+insulation
+szigetelés
+
+
+caves
+barlangok
+
+
+in advance
+előre, előzetesen, fejlődés
+
+
+advisable
+tanácsos
+
+
+observation
+megfigyelés
+
+
+deduction
+levonás, következtetés
+
+
+skilled
+képzett
+
+
+controversy
+vita, probléma
+
+
+extended
+kiterjedt
+
+
+deductive
+következtető
+
+
+controversial
+ellentmondásos, vitatott
+
+
+fascinating
+lenyűgöző
+
+
+non-existent
+nem létező
+
+
+original
+eredeti
+
+
+considered to
+figyelembe véve
+
+
+extraordinary
+különleges, rendkívüli
+
+
+organisation
+szervezet
+
+
+purpose
+ok, cél
+
+
+to provide
+biztosítani, ellátni
+
+
+apply for a job
+állásra jelentkezik
+
+
+acquainted
+ismert
+
+
+determine
+meghatároz
+
+
+familiarity
+ismerősség
+
+
+amenities
+felszereltség, boldogság
+
+
+proceed with
+halad vmivel
+
+
+concerning
+valamire utalóan
+
+
+pedestrian
+gyalogos
+
+
+proximity
+közelség
+
+
+devided
+felosztott
