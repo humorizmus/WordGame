@@ -265,38 +265,6 @@ class WordGame:
                                 self.speak_word(megtanult_szavak[m][0])
                                 time.sleep(1)
 
-                # if f % 2 == 0:
-                #     s = 0
-                #     while s < 2:
-                #         printer = ColorfulTextPrinter()
-                #         read = f"\n{f}.5. A little game! There are 3 English words hidden in this stream of letters. What are these? "
-                #         printer.print_colored_cyan(read)
-                #         self.display_message_1("")
-                #         time.sleep(1)
-                #         texts = []
-                #         for i in range(ord('a'), ord('z') + 1):
-                #             texts.append(chr(i))
-                #         egy = random.randint(0, len(megtanult_szavak))
-                #         ketto = random.randint(0, len(megtanult_szavak))
-                #         harom = random.randint(0, len(megtanult_szavak))
-                #
-                #         hossza_1 = random.randint(10, 30)
-                #         hossza_2 = random.randint(10, 30)
-                #         hossza_3 = random.randint(10, 30)
-                #         hossza_4 = random.randint(10, 30)
-                #
-                #         for h in range(0, hossza_1, 1):
-                #             szam = random.randint(0, len(texts))
-                #             print(f"{texts[szam]}", end="")
-                #         print(f'{megtanult_szavak[egy]}', sep="", end="")
-                #         for h in range(0, hossza_2, 1):
-                #             szam = random.randint(0, len(texts))
-                #             print(f"{texts[szam]}", end="")
-                #         print(f'{megtanult_szavak[ketto]}', sep="", end="")
-                #         for h in range(0, hossza_3, 1):
-                #             szam = random.randint(0, len(texts))
-                #             print(f"{texts[szam]}", end="")
-                #         print(f'{megtanult_szavak[harom]}', sep="", end="")
 
             except:
                 continue
